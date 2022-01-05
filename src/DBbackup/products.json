@@ -1,0 +1,71 @@
+[{
+  "_id": {
+    "$oid": "61cd98cde71266d66c1bae92"
+  },
+  "created_at": {
+    "$date": "2021-12-30T11:32:29.971Z"
+  },
+  "category": "Mobile Phone",
+  "brand": "Apple",
+  "model": "Apple iPhone 5",
+  "price": "10000",
+  "soldCount": "2345",
+  "image": "https://s3n.cashify.in/cashify/product/img/xhdpi/csh-bjlsyasn-okd5.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61cd9b1384242a2b0ab3d509"
+  },
+  "created_at": {
+    "$date": "2021-12-30T11:42:11.797Z"
+  },
+  "category": "Mobile Phone",
+  "brand": "Apple",
+  "model": "Apple iPhone 6S Plus",
+  "price": "8640",
+  "soldCount": "6870",
+  "image": "https://s3n.cashify.in/cashify/product/img/xhdpi/csh-73kjnouo-hzvn.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61cd9b3e84242a2b0ab3d50b"
+  },
+  "created_at": {
+    "$date": "2021-12-30T11:42:54.796Z"
+  },
+  "category": "Mobile Phone",
+  "brand": "Apple",
+  "model": "Apple iPhone 5c",
+  "price": "2040",
+  "soldCount": "1250",
+  "image": "https://s3n.cashify.in/cashify/product/img/xhdpi/csh-o5blfuav-qrdg.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61cef9f1dfbc4ec4631b5c53"
+  },
+  "created_at": {
+    "$date": "2021-12-31T12:39:13.458Z"
+  },
+  "category": "Mobile Phone",
+  "brand": "Samsung",
+  "model": "Samsung Galaxy Note 8",
+  "price": "15400",
+  "soldCount": "10",
+  "image": "https://s3n.cashify.in/cashify/product/img/xhdpi/aaf0d54f-a55e.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61cefa62dfbc4ec4631b5c55"
+  },
+  "created_at": {
+    "$date": "2021-12-31T12:41:06.668Z"
+  },
+  "category": "Mobile Phone",
+  "brand": "Samsung",
+  "model": "Samsung Galaxy M30",
+  "price": "13000",
+  "soldCount": "50",
+  "image": "https://s3n.cashify.in/cashify/product/img/xhdpi/csh-ciclgsgh-yszy.png",
+  "__v": 0
+}]

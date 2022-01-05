@@ -12,6 +12,6 @@ Scope of work: Replicating Cashify web application for Poorvika POC.
 ## Development Environment Setup
 ```
 git clone https://github.com/senthil-magendiran/poorvika_poc_api.git
-yarn install
+yarn
+Add product.json in Database which is in src/DBbackup
 yarn start
-
