@@ -30,4 +30,6 @@ export const addOrderValidator = Joi.object({
     deviceProblems: Joi.array().items(Joi.string()),
     functionalDefects: Joi.array().items(Joi.string()),
     accessoryList: Joi.array().items(Joi.string()),
+    image: Joi.string().required(),
+    model: Joi.string().required()
 })

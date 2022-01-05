@@ -5,6 +5,8 @@ const ordersSchema: Schema = new mongoose.Schema({
     name: String,
     product: String,
     price: String,
+    image: String,
+    model: String,
     deviceProblems: [String],
     functionalDefects: [String],
     accessoryList: [String],
