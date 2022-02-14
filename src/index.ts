@@ -11,7 +11,7 @@ app.use(cors());
 app.use(bodyParser.json());
 app.use(RoutePaths);
 
-app.listen(PORT, () => {
+app.listen(process.env.PORT || PORT, () => {
   DBConnection();
   console.log(`Server is running at http://localhost:${PORT}`);
 });
