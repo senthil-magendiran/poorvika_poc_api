@@ -1,6 +1,6 @@
 import express from 'express';
-import RoutePaths from './controllers';
-import DBConnection from './utils/DBConnection';
+import RoutePaths from './src/controllers';
+import DBConnection from './src/utils/DBConnection';
 import bodyParser from 'body-parser';
 import cors from 'cors';
 
